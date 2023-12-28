@@ -1,1 +1,1 @@
-# python_training
+# Course on python for back end
